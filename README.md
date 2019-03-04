@@ -1,4 +1,12 @@
-# Quiz Game
+Free on the Playstore: https://play.google.com/store/apps/details?id=quiz.simpulanbahasa
+
+# Screenshots
+![unnamed 2](https://user-images.githubusercontent.com/37230267/53724510-feafbf00-3ea4-11e9-9d31-56a861572c36.png)
+![unnamed 3](https://user-images.githubusercontent.com/37230267/53724511-ff485580-3ea4-11e9-82e9-3041adfad82c.png)
+![unnamed 1](https://user-images.githubusercontent.com/37230267/53724512-ffe0ec00-3ea4-11e9-8003-59c9b99ade3f.png)
+![unnamed](https://user-images.githubusercontent.com/37230267/53724513-ffe0ec00-3ea4-11e9-863f-789e94f703a5.png)
+
+# Fork Quiz Game 
 - Quiz game for android
 - Written by Sarvesh chavan
 - Under The MIT License (MIT)
@@ -19,14 +27,6 @@
 - Compatibility with Android API-14 and above
 - minSdkVersion 14
 - targetSdkVersion 25
-
-# Screenshots
-![screenshot_2017-09-12-18-09-11-050](https://user-images.githubusercontent.com/22947683/30327745-d58f6054-9792-11e7-95f6-cc58f26a87de.jpg)
-![screenshot_2017-09-12-18-10-14-944](https://user-images.githubusercontent.com/22947683/30327761-dc22de64-9792-11e7-8f07-2a470352d6ae.jpg)
-![screenshot_2017-09-12-18-11-59-568](https://user-images.githubusercontent.com/22947683/30327767-e06793ac-9792-11e7-93c4-4f952042b0ed.jpg)
-![screenshot_2017-09-12-18-09-28-914](https://user-images.githubusercontent.com/22947683/30327776-e5c1f022-9792-11e7-8063-903ad3c06c6c.jpg)
-![screenshot_2017-09-12-18-09-53-445](https://user-images.githubusercontent.com/22947683/30327780-e91bd936-9792-11e7-8050-a051439294d5.jpg)
-![screenshot_2017-09-12-18-11-44-119](https://user-images.githubusercontent.com/22947683/30327828-0c65a0ac-9793-11e7-987c-20c00e70ff8a.jpg))
 
 
 
