@@ -4,7 +4,6 @@ Free on the Playstore: https://play.google.com/store/apps/details?id=quiz.simpul
 ![unnamed 2](https://user-images.githubusercontent.com/37230267/53724510-feafbf00-3ea4-11e9-9d31-56a861572c36.png)
 ![unnamed 3](https://user-images.githubusercontent.com/37230267/53724511-ff485580-3ea4-11e9-82e9-3041adfad82c.png)
 ![unnamed 1](https://user-images.githubusercontent.com/37230267/53724512-ffe0ec00-3ea4-11e9-8003-59c9b99ade3f.png)
-![unnamed](https://user-images.githubusercontent.com/37230267/53724513-ffe0ec00-3ea4-11e9-863f-789e94f703a5.png)
 
 # Fork Quiz Game 
 - Quiz game for android
