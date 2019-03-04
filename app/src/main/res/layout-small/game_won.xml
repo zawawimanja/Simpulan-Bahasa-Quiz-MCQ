@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"></View>
+
+    <TextView
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:id="@+id/score"
+        android:text="Your score:"
+        android:textColor="@color/white"
+        />
+    <TextView
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:id="@+id/highscore"
+        android:text="Best score:"
+        android:textColor="@color/white"
+        />
+
+
+    <info.hoang8f.widget.FButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/play_again"
+        android:textColor="@color/white"
+        android:id="@+id/platygaianbutton"
+        android:layout_margin="15dp"
+        android:onClick="PlayAgain"
+        />
+</LinearLayout>

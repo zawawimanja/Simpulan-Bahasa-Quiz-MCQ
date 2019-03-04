@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simpulan Bahasa</string>
+    <string name="question">Question</string>
+    <string name="play_again">Main Semula</string>
+    <string name="time">15</string>
+    <string name="correct">Betul</string>
+    <string name="wrongans">Opps the ans was wrong</string>
+    <string name="explain">Explain</string>
+    <string name="timeup">Masa Habis</string>
+    <string name="play_game">Mulakan Permainan</string>
+    <string name="quit">Keluar</string>
+    <string name="settings">Tentang</string>
+    <string name="next">Next</string>
+    <string name="sound">Matikan Suara</string>
+    <string name="about">Aplikasi ulangkaji simpulan bahasa untuk semua. Semoga berjaya menjawab semua soalan.</string>
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-3644088453072578/27229460 </string>
+    <string name="inter_ad_unit_id">ca-app-pub-3644088453072578/6298518535</string>
+
+
+</resources>
